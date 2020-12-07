@@ -15,6 +15,6 @@
   
 Несколько скриншотов:
 
-![initial](https://github.com/VanButrij/Yuma-Task/blob/master/img/initial.png)
+![initial](https://github.com/VanButrij/SEMRush-App/blob/gh-pages/img/adaptive.jpg)
 
-![upload](https://github.com/VanButrij/Yuma-Task/blob/master/img/loaded.png)
+![upload](https://github.com/VanButrij/SEMRush-App/blob/gh-pages/img/adaptive.jpg)
