@@ -15,6 +15,6 @@
   
 Несколько скриншотов:
 
-![initial](https://github.com/VanButrij/SEMRush-App/blob/gh-pages/img/adaptive.jpg)
+![initial](https://github.com/VanButrij/SEMRush-App/blob/gh-pages/img/initial.jpg)
 
 ![upload](https://github.com/VanButrij/SEMRush-App/blob/gh-pages/img/adaptive.jpg)
